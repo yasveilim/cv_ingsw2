@@ -16,7 +16,7 @@ public class Cv1_ejercicio {
      */
     public static void main(String[] args) 
     {
-        System.out.println("V0");
+           
     }
     
 }
